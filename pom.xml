@@ -42,7 +42,7 @@
   <repositories>
     <repository>
        <id>jboss-fuse</id>
-       <url>https://origin-repository.jboss.org/nexus/content/groups/ea</url>
+       <url>https://repository.jboss.org/nexus/content/groups/ea</url>
     </repository>
     <repository>
        <id>mrrc-redhat</id>
@@ -54,9 +54,9 @@
         <pluginRepository>
           <releases />
           <snapshots />
-          <id>jboss_origin</id>
-          <name>jboss_origin</name>
-          <url>https://origin-repository.jboss.org/nexus/content/groups/ea</url>
+          <id>jboss_ea</id>
+          <name>jboss_ea</name>
+          <url>https://repository.jboss.org/nexus/content/groups/ea</url>
         </pluginRepository>
         <pluginRepository>
           <id>redhat.ga</id>
